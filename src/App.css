@@ -3,7 +3,7 @@
 /*see styles.css at root of project for global css*/
 
 body{
-  background: #000;
+  background: rgb(17, 214, 135);
 }
 
 .logo {
@@ -13,10 +13,10 @@ body{
 }
 
 .input-text {
-  display: inline;
-  margin: 0;
+  display: inline ;
+  margin: 10;
   border: none;
-  border-radius: 0.4rem;
+  border-radius: 1 rem;
   padding: 10px;
 }
 
@@ -39,7 +39,7 @@ body{
   color: #fff !important;
   text-transform: uppercase;
   text-decoration: none;
-  background: #7313cb;
+  background: #20cbe9;
   margin: 20px;
   padding: 10px;
   border-radius: 0.4rem;
@@ -49,13 +49,13 @@ body{
 
 .app-title {
   text-align: center;
-  color: #c1c1c1;
+  color: #000000;
   font-size: 70px;
 }
 ul {
   /* remove default padding and margin from ul*/
-  margin: 0px;
-  padding: 0px;
+  margin: 10px;
+  padding: 10px;
 }
 .list ul li {
   display: block;
